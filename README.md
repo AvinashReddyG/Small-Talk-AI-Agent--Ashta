@@ -5,8 +5,7 @@ Ashta is an AI-powered conversational agent designed to enhance small talk in ev
 1. Clone the repo using the command "git clone https://github.com/AvinashReddyG/Small-Talk-AI-Agent--Ashta"
 2. Open the folder on VS Code or Code Editor and replace the 'YOUR_API_KEY' in .env file with Gemini API Key.
 3. Open the Terminal and run the following commands:
-   npm install
-   npm run dev
+   `npm install` and `npm run dev`
 4. You will get the link to open on your browser using local port. Press Ctrl and click on the link to open the webpage.
 5. You can now start using the AI chatbot by clicking on chat icon at the right bottom of the page.
 6. Enter the prompt you want and click Send(Arrow icon).
